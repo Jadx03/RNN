@@ -1,0 +1,195 @@
+Training on GPU!
+CharRNN(
+  (lstm): LSTM(65, 256, num_layers=2, batch_first=True, dropout=0.5)
+  (dropout): Dropout(p=0.5, inplace=False)
+  (fc): Linear(in_features=256, out_features=65, bias=True)
+)
+Epoch 0 completed. Loss = 3.3263...
+Epoch 1 completed. Loss = 2.8872...
+Epoch 2 completed. Loss = 2.4858...
+Epoch 3 completed. Loss = 2.3018...
+Epoch 4 completed. Loss = 2.1901...
+Epoch 5 completed. Loss = 2.0957...
+Epoch 6 completed. Loss = 2.0187...
+Epoch 7 completed. Loss = 1.9634...
+Epoch 8 completed. Loss = 1.9139...
+Epoch 9 completed. Loss = 1.8758...
+Epoch 10 completed. Loss = 1.8337...
+Epoch 11 completed. Loss = 1.8100...
+Epoch 12 completed. Loss = 1.7853...
+Epoch 13 completed. Loss = 1.7539...
+Epoch 14 completed. Loss = 1.7393...
+QUEEN:
+Thou hadth how that he caunted to the solled;
+Warry what all the weep of the say
+Wonget of thas treight, should he hand here,
+And a sollous brother things thy love on the pation.
+I would seld the course aring, which thit the pearing, and me to his strese,
+An that have stord thou he shall brother,
+All my hims all hath as stored and so what we was
+A montan tooth, and are markel all.
+
+CLERENDE:
+And so may, and my bring and be heart
+And whose thas the corman that him should art
+That made my patine all the seevart
+Though and have the pains, and to be this tones.
+
+PETRUCHIO:
+And my hadd thee trattar,
+I were all think, and should true, my house our,
+And heaves his farish in strise.
+
+MINANES:
+He hast teld your foresed, as your comply tith,
+And send it was my luking his comminds.
+
+BIANCA:
+I will so marred her as, so, some
+And whish a marst and arming of the bear,
+Thou that me arrort on the complined to me;
+Wilt have though with a word as seeds with her;
+Tear the bing her strong of home, at have thy lets,
+The stoming and to they wink of the peiry strange
+And haste, which mert serve think it.
+
+LUCENTIO:
+Why, saik to my leeter to my lords:
+That more surs and all server the bears
+And trent to her that thy forture that should
+Itam to the courded and the word and honour head.
+
+BAPPISTA:
+I that so so that hence, their
+And the basting wise to brant it as all to the day.
+
+BURKINGHAM:
+His sire as the sell and to have to stous
+And this the worssed sir, be are.
+
+KING RICHARD III:
+I weel, that, I ment to my father and.
+
+LUCENTIO:
+I would still the wisher that to his countrite.
+
+BATKINGHAM:
+I shall see, I shall that what shis hast sire
+And when a manding heavens, and so take him, and.
+
+KENG LICINIC:
+All, I though their to before him the daster,
+I dear to his ting in shall by my shear,
+What with the say.
+
+BAPTISTA:
+And all your servows on, befurs and some.
+
+PRINCE EDWARD:
+That say the recent and hink, they be are take.
+
+BETHUSHA:
+Ay, we the perciun it should stord,
+To sorrow tell me ware asseed the bessens.
+Whitherer, more, will all and have
+Tear of supsers to their consesting
+Is thas the barded so woor henely;
+And with marring once his cearing this
+And have mading of the some have shourder: this me to
+Their bate of, and a mide, that then shall soul teer
+The both and have seed as stition
+We say here to this hasters and so that
+That might so buny, branged to strike you to to see,
+Wath the word a shant so to some morround.
+
+BRUTUS:
+I hear and tell and welf;
+I'll thank'd the back as trum to that that this honour
+The such a bether bried. When, woods! a done,
+And me thy fear to by him.
+
+MANIILANUS:
+And my sole of my lares.
+
+LADY BUCHESSYO:
+Which me here and wors a souse the son, better that sir;
+That, were thou a morth a wearnest his ase heart
+And that the batter of me to-morress alone
+And this what their breant and whither, better, as to sict,
+And merny his tongure, and as than the pations,
+Worst had sir, which mishand and her brook in him
+And with the she and are and to burth.
+
+BATKINGHAA:
+I hast the die thy son of him, to be
+Tare to the bitter, servious and she thou will
+Will so seed that that thy faring trood a dear.
+
+CLAUDIO:
+All to the brool, a manther, are the bead.
+
+BUCKINGHAM:
+Why, then the reads in at the sour our lead.
+
+CLAUDIO:
+What! store my life to so sits to me;
+Are me the prisestared weep,
+I'll were and here, the crown.
+
+KING HENRY VI:
+A wencoms head the thing the such him.
+
+CORIOLANUS:
+What, are the sore a most stinged of, there
+As the cander to my sant and thought.
+
+LEONTES:
+Hark you should see to be are to that,
+Thou ance, and should but to have with a mert
+The sorred's worthing stare to thou the deans
+Will be that he come him the comford,
+And all she stard of his sire.
+
+CATUSBY:
+Why, as a mingread thanks as as this bother
+To man the servity all as in that with thee.
+
+BUCKINGHAM:
+Here the bance and that me,
+The prowiress son of a barrous brown.
+When you, where is thou was to be antratient;
+Bronger the that her son how and word, the came.
+
+CLARENCE:
+Where yet, more and to her stall merratian,
+And he she blood and has onours and my prais.
+
+PETRUCHIO:
+I shouldst a morrand. I say tone still and
+With thy hastines or their chandering and
+World stere of all the winds on the best to sent
+We shall be shall and be to but than thou wall.
+
+BETHUSHA:
+I had my liet to the prisester and
+And seeth me sigh as my frierd,
+And that here wathing as my bloishing
+And stous thou somestar on, to the dook and men,
+But think'd thy lord if he stand than made to see
+To this the birdings but the pathire.
+
+KING RICHARD III:
+Thene and all the book, by thy sent.
+
+BUCKINGHAM:
+Where their best the to she who so that to she tell.
+And must me to by him of as the brother.
+A wendour soul are stomes are to the brother
+As my live and--the water thou thou shimber.
+
+CORIOLANUS:
+I have the connul inthings; well a montent,
+And as the would him still her whon all that that she how that the but
+Take mistring into the state to make honour and
+Worct that mad her b
+
